@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f2f5;
+}
+
+.MainPage {
+    color: #3c3d3d;
+}
+
+#title {
+    width: 100%;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+hr {
+    position: absolute;
+    width: 2%;
+    margin-left: 49%;
+    margin-right: auto;
+    margin-top: -43px;
+    height: 3px;
+    background-color: #3c3d3d;
+    border: none;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+img {
+    width: 298px;
+    height: 159px;
+}
+
+.thailand {
+    width: 298px;
+    background-color: white;
+    margin-right: 25px;
+    font-size: 15px;
+}
+
+.france {
+    width: 298px;
+    background-color: white;
+    margin-right: 25px;
+    font-size: 15px;
+}
+
+.maldive {
+    width: 298px;
+    background-color: white;
+    margin-right: 25px;
+    font-size: 15px;
+}
+
+
+/* ------------------------------- */
+
+#timer {
+    font-size: 13px;
+    word-spacing: 2px;
+    padding-left: 50px;
+    color: grey;
+}
+
+.sml_title {
+    color: #0db0bf;
+    font-weight: bold;
+}
+
+.content button {
+    border: none;
+    width: 61px;
+    height: 19px;
+    margin-left: 10px;
+    margin-bottom: 25px;
+}
+
+.f {
+    margin-top: 176px;
+    margin-left: -276px;
+    position: absolute;
+}
+
+.txt {
+    margin-left: 15px;
+}
+
+#news_update {
+    font-weight: bold;
+    margin-left: 45%;
+    margin-top: 200px;
+    padding: 10px 30px;
+    background-color: #f0f2f5;
+    font-size: 18px;
+    color: #12a7b5;
+    border-color: #12a7b5;
+    box-shadow: 0 2px 4px rgb(18 167 181 / 10%), 0 8px 16px rgb(18 167 181 / 10%);
+}
